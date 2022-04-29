@@ -1,0 +1,188 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: sf pro;
+
+}
+
+.wrapper {
+    /* margin-top: 53px;  */
+    margin-left: 361px;
+}
+
+.topbar {
+    display: flex;
+}
+
+.search-box {
+    height: 35px;
+    width: 450px;
+    /* margin-left: 0px; */
+    margin-top: 44px;
+    border-radius: 4px;
+    margin-left: 100px;
+    background-color: #F7F8FA;
+    /* position: absolute; */
+    border-width: none;
+    border: none;
+
+}
+
+.search-icon {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 110px;
+}
+.search {
+    color: #7B7B7B;
+}
+
+.greetings {
+    margin-top: 53px;
+    height: 30px;
+    width: 163px;
+    /* margin-left: 361px; */
+    top: 53px;
+
+
+}
+
+.notification-icon {
+    /* margin-left: 200px; */
+    margin-left: 250px;
+    margin-top: 58.5px;
+    width: 16px;
+    height: 19.5;
+}
+
+.rectangle {
+    /* background-color: blue; */
+    /* margin-top: 40px; */
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    /* position: absolute; */
+
+}
+.rectangle .pro {
+    /* background-color: blue; */
+    margin-top: 22px;
+    height: 40px;
+    width: 46px;
+    margin-left: 32px;
+    border-radius: 10px;
+    /* color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    position: absolute; */
+
+}
+
+.account-form{
+    margin-top: 54px;
+}
+
+.detail-container{
+    display: flex;
+    Width: 420px;
+    Height: 60px;
+    /* padding: 13px, 13px, 13px, 13px; */
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #E5F5F8;
+    /* color: blueviolet; */
+    /* border-color: black; */
+    /* background-color: bisque; */
+    color: black;
+    stroke: #E5F5F8;
+    gap: 2em;
+    margin-top: 40px;
+    text-align: center;
+
+}
+.details{
+    margin-top: 12px; 
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 7px;
+
+}
+.details:hover{
+    padding: 7px;
+    color: #53BED2;
+    background-color:#E5F5F8 ;
+}
+.profile-container{
+    display: flex;
+    margin-top: 38px;
+    Width: 420px;
+    gap: 45px;
+}
+
+.profile-img1{
+    width: 109px;
+    height: 99px;
+    border-radius: 5px;
+
+}
+.line{
+    margin-top: 33px;
+    width: 385px;
+    height: 1px;
+
+    background-color: #F1F1F1;
+}
+.last{
+    margin-top: 24px;
+    display: flex;
+    gap: 14px;
+    color: #fff;
+
+}
+
+.last a{
+    color: white;
+    
+} 
+
+.edit{
+    background-color: black;
+    Width:122px;
+    Height:50px;
+    border-radius: 5px;
+ 
+    
+}
+
+.edit a{
+
+    margin-left: 27px; 
+    margin-top: 15px;
+    position: absolute;
+    font-size: 12px;
+    
+}
+
+
+
+.change-password{
+    background-color: #53BED2;
+    Width: 253px;
+    Height: 53px;
+    border-radius: 5px;
+}
+
+.change-password a{
+    margin-left: 60px; 
+    margin-top: 15px;
+    position: absolute;
+    font-size: 12px;
+}
+.profile-details h5{
+    margin-top: -4px;
+    line-height: 40px;
+    font-weight: lighter;
+
+
+}
